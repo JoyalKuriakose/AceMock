@@ -101,7 +101,7 @@ The system is structured into four primary modules: **Admin, User, Recruiter, an
   
 ## Folder Structure
 
-
+```plaintext
 src
 ├── App.jsx                  # Root component
 ├── main.jsx                 # Application entry point
@@ -116,33 +116,33 @@ src
 ├── auth                     # Authentication and authorization
 ├── styles                   # Tailwind and global styles
 └── pages                    # Application pages and routing
-
+```
 
 
 ## Installation & Setup
 
 ### Clone the Repository
 
-```bash
+```
 git clone https://github.com/your-username/ace-mock.git
 cd ace-mock
 ```
 
 ### Install Dependencies
 
-```bash
+```
 npm install
 ```
 
 ### Run Development Server
 
-```bash
+```
 npm run dev
 ```
 
 ### Build for Production
 
-```bash
+```
 npm run build
 ```
 
