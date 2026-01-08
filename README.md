@@ -101,7 +101,7 @@ The system is structured into four primary modules: **Admin, User, Recruiter, an
   
 ## Folder Structure
 
-```plaintext
+
 src
 ├── App.jsx                  # Root component
 ├── main.jsx                 # Application entry point
@@ -116,7 +116,7 @@ src
 ├── auth                     # Authentication and authorization
 ├── styles                   # Tailwind and global styles
 └── pages                    # Application pages and routing
-```
+
 
 
 ## Installation & Setup
@@ -188,6 +188,7 @@ Job aspirants and recruiters face several challenges:
 ## Author
 
 **Joyal Kuriakose**
+
 Project: **Ace Mock – AI-Powered Career & Assessment Platform**
 
 
